@@ -1,0 +1,266 @@
+Total Deaths;0.0
+Average Total Deaths;0.0
+Total Births;0.0
+Average Total Births;0.0
+Active Cells;100.0
+Average Active Cells;1.0
+Increments;250.0
+Average Increments;2.5
+Jumps;501.0
+Average Jumps;5.01
+Distance from start;4246.468766689032
+Average Distance from start;42.46468766689032
+Speed;315.45603517047005
+Average Speed;3.1545603517047005
+Total Nearest;0.0
+Average Total Nearest;0.0
+Closest;0.0
+Average Closest;0.0
+Furthest;0.0
+Average Furthest;0.0
+total distance travelled;31545.603517047006
+Average total distance travelled;315.45603517047005
+total collisions;76.0
+Average total collisions;0.76
+total turns;3708.0
+Average total turns;37.08
+total bez chosen;0.0
+Average total bez chosen;0.0
+collision sector One;11.0
+Average collision sector One;0.11
+collision sector Two;18.0
+Average collision sector Two;0.18
+collision sector Three;34.0
+Average collision sector Three;0.34
+collision sector Four;13.0
+Average collision sector Four;0.13
+collision sector Five;11.0
+Average collision sector Five;0.11
+collision sector Six;18.0
+Average collision sector Six;0.18
+collision sector Seven;34.0
+Average collision sector Seven;0.34
+collision sector Eight;13.0
+Average collision sector Eight;0.13
+bounce sect One;0.0
+Average bounce sect One;0.0
+bounce sect Two;0.0
+Average bounce sect Two;0.0
+bounce sect Three;0.0
+Average bounce sect Three;0.0
+bounce sect Four;0.0
+Average bounce sect Four;0.0
+bounce sect Five;0.0
+Average bounce sect Five;0.0
+bounce sect Six;0.0
+Average bounce sect Six;0.0
+bounce sect Seven;0.0
+Average bounce sect Seven;0.0
+bounce sect Eight;0.0
+Average bounce sect Eight;0.0
+chosen sect One;851.0
+Average chosen sect One;8.51
+chosen sect Two;552.0
+Average chosen sect Two;5.52
+chosen sect Three;408.0
+Average chosen sect Three;4.08
+chosen sect Four;356.0
+Average chosen sect Four;3.56
+chosen sect Five;394.0
+Average chosen sect Five;3.94
+chosen sect Six;335.0
+Average chosen sect Six;3.35
+chosen sect Seven;359.0
+Average chosen sect Seven;3.59
+chosen sect Eight;535.0
+Average chosen sect Eight;5.35
+chosen sect Nine;0.0
+Average chosen sect Nine;0.0
+chosen sect Ten;0.0
+Average chosen sect Ten;0.0
+chosen sect Eleven;0.0
+Average chosen sect Eleven;0.0
+chosen sect Twelve;0.0
+Average chosen sect Twelve;0.0
+chosen sect Thirteen;0.0
+Average chosen sect Thirteen;0.0
+chosen sect Fourteen;0.0
+Average chosen sect Fourteen;0.0
+chosen sect Fifteen;0.0
+Average chosen sect Fifteen;0.0
+chosen sect Sixteen;0.0
+Average chosen sect Sixteen;0.0
+absolute direction One;449.0
+Average absolute direction One;4.49
+absolute direction Two;515.0
+Average absolute direction Two;5.15
+absolute direction Three;471.0
+Average absolute direction Three;4.71
+absolute direction Four;506.0
+Average absolute direction Four;5.06
+absolute direction Five;486.0
+Average absolute direction Five;4.86
+absolute direction Six;482.0
+Average absolute direction Six;4.82
+absolute direction Seven;440.0
+Average absolute direction Seven;4.4
+absolute direction Eight;441.0
+Average absolute direction Eight;4.41
+chosen sect travelled One;6627.436335034922
+Average chosen sect travelled One;66.27436335034922
+chosen sect travelled Two;4512.863172333582
+Average chosen sect travelled Two;45.12863172333582
+chosen sect travelled Three;3473.1825368870327
+Average chosen sect travelled Three;34.731825368870325
+chosen sect travelled Four;3072.249754356465
+Average chosen sect travelled Four;30.72249754356465
+chosen sect travelled Five;3384.0968163091284
+Average chosen sect travelled Five;33.84096816309128
+chosen sect travelled Six;2782.5445249439417
+Average chosen sect travelled Six;27.82544524943942
+chosen sect travelled Seven;3269.557259602344
+Average chosen sect travelled Seven;32.69557259602344
+chosen sect travelled Eight;4423.6731175796
+Average chosen sect travelled Eight;44.236731175796
+chosen sect travelled Nine;0.0
+Average chosen sect travelled Nine;0.0
+chosen sect travelled Ten;0.0
+Average chosen sect travelled Ten;0.0
+chosen sect travelled Eleven;0.0
+Average chosen sect travelled Eleven;0.0
+chosen sect travelled Twelve;0.0
+Average chosen sect travelled Twelve;0.0
+chosen sect travelled Thirteen;0.0
+Average chosen sect travelled Thirteen;0.0
+chosen sect travelled Fourteen;0.0
+Average chosen sect travelled Fourteen;0.0
+chosen sect travelled Fifteen;0.0
+Average chosen sect travelled Fifteen;0.0
+chosen sect travelled Sixteen;0.0
+Average chosen sect travelled Sixteen;0.0
+lifetime;10000.0
+Average lifetime;100.0
+Collision Varience;0.39473684210526316
+Average Collision Varience;0.003947368421052632
+Collision Varience Total;3.1578947368421053
+Average Collision Varience Total;0.031578947368421054
+Bounce Varience;NaN
+Average Bounce Varience;NaN
+Bounce Varience Total;NaN
+Average Bounce Varience Total;NaN
+Chosen Varience;1.0
+Average Chosen Varience;0.01
+Chosen Varience Total;16.0
+Average Chosen Varience Total;0.16
+Absolute Varience;0.04960422163588391
+Average Absolute Varience;4.960422163588391E-4
+Absolute Varience Total;0.3968337730870713
+Average Absolute Varience Total;0.003968337730870713
+Chosen distance Varience;1.0
+Average Chosen distance Varience;0.01
+Chosen distance Varience Total;16.0
+Average Chosen distance Varience Total;0.16
+seed: -2384219147582650160
+increments: 250
+jump size: 2.0
+jumps per increment: 2.0
+brakes: 25
+file name: null
+vid file name: null
+heat topper: 0
+jumps changed: false
+tail: false
+panel size: 1500
+push: 0
+jump size increment: 1.0
+jumps per increment: 1.0
+brake increments: 25.0
+changed: false
+type of traj: roulette
+iterations: 250
+change frequency: 75000
+number of cells: 100
+size of cells: 10
+one: 4145
+two: 2441
+three: 1983
+four: 2152
+five: 2230
+six: 1977
+seven: 2416
+eight: 4078
+distribution: random
+replication on: false
+rep chance: 3000
+rep taboo time: 0
+rep varience on: false
+rep varience: 100
+death on: false
+death chance: 2000
+death type: clear
+death varience on: false
+death varience: 100
+death time till removal: 100
+boundary on: false
+bound size: 500
+bound type: circular
+speed on: false
+speed: 3.0
+speed varience: 2
+speed spreadType: random
+bez on: false
+bez bounce on: false
+bez min distance: 5000
+bez max distance: 50000
+bez chance: 90000
+bez number: 20
+bez size: 5
+bez type: random
+bez varience: 1000
+bez retainer: false
+bez S var: 0
+bez dist: false
+ant path: false
+ant ratio: 10000
+ant varience ratio: 10000
+species 0
+replication: false
+rep chance: 3000
+rep taboo: 0
+rep varience: false
+er rep varience 2: 100
+death: false
+death chance: 2000
+death varience: false
+death varience 2: 100
+death type: clear
+time till removal: 100
+speed flag: false
+speed: 3.0
+speedVar: 2
+speed type: random
+change flag: 75000
+change varience: 0
+cell num: 100
+wOne: 4145
+wOne var: 0
+wTwo: 2441
+wTwo varience: 0
+wThree: 1983
+wThree varience: 0
+wFour: 2152
+wFour varicne: 0
+wFive: 2230
+wFive varience: 0
+wSix: 1977
+wSix varience: 0
+wSeven: 2416
+wSeven varience: 0
+wEight: 4078
+wEight varience: 0
+traj type: roulette
+cell length: 10
+cell length var: 4
+ant path flag: false
+ant ratio: 10000
+ant varience: 10000

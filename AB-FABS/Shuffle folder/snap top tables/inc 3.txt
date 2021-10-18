@@ -1,0 +1,270 @@
+Runs:                                    Run 1 150.0           Run 2 150.0            Run 2 Totals         
+Total Deaths                            0.0                   0.0                    0.0                   
+Average Total Deaths                    0.0                   0.0                    0.0                   
+Total Births                            0.0                   0.0                    0.0                   
+Average Total Births                    0.0                   0.0                    0.0                   
+Active Cells                            100.0                 100.0                  200.0                 
+Average Active Cells                    1.0                   1.0                    2.0                   
+Increments                              150.0                 150.0                  300.0                 
+Average Increments                      1.5                   1.5                    3.0                   
+Jumps                                   301.0                 301.0                  602.0                 
+Average Jumps                           3.01                  3.01                   6.02                  
+Distance from start                     3173.2428645516407    3017.223906921817      6190.466771473458     
+Average Distance from start             31.732428645516407    30.172239069218172     61.90466771473458     
+Speed                                   297.3216443846089     315.45603517047005     612.777679555079      
+Average Speed                           2.9732164438460886    3.1545603517047005     6.127776795550789     
+Total Nearest                           0.0                   0.0                    0.0                   
+Average Total Nearest                   0.0                   0.0                    0.0                   
+Closest                                 0.0                   0.0                    0.0                   
+Average Closest                         0.0                   0.0                    0.0                   
+Furthest                                0.0                   0.0                    0.0                   
+Average Furthest                        0.0                   0.0                    0.0                   
+total distance travelled                29732.164438460888    31545.603517047006     61277.767955507894    
+Average total distance travelled        297.3216443846089     315.45603517047005     612.777679555079      
+total collisions                        58.0                  93.0                   151.0                 
+Average total collisions                0.58                  0.93                   1.51                  
+total turns                             3730.0                3737.0                 7467.0                
+Average total turns                     37.3                  37.37                  74.66999999999999     
+total bez chosen                        0.0                   0.0                    0.0                   
+Average total bez chosen                0.0                   0.0                    0.0                   
+collision sector One                    21.0                  27.0                   48.0                  
+Average collision sector One            0.21                  0.27                   0.48                  
+collision sector Two                    7.0                   31.0                   38.0                  
+Average collision sector Two            0.07                  0.31                   0.38                  
+collision sector Three                  24.0                  21.0                   45.0                  
+Average collision sector Three          0.24                  0.21                   0.44999999999999996   
+collision sector Four                   6.0                   14.0                   20.0                  
+Average collision sector Four           0.06                  0.14                   0.2                   
+collision sector Five                   21.0                  27.0                   48.0                  
+Average collision sector Five           0.21                  0.27                   0.48                  
+collision sector Six                    7.0                   31.0                   38.0                  
+Average collision sector Six            0.07                  0.31                   0.38                  
+collision sector Seven                  24.0                  21.0                   45.0                  
+Average collision sector Seven          0.24                  0.21                   0.44999999999999996   
+collision sector Eight                  6.0                   14.0                   20.0                  
+Average collision sector Eight          0.06                  0.14                   0.2                   
+bounce sect One                         0.0                   0.0                    0.0                   
+Average bounce sect One                 0.0                   0.0                    0.0                   
+bounce sect Two                         0.0                   0.0                    0.0                   
+Average bounce sect Two                 0.0                   0.0                    0.0                   
+bounce sect Three                       0.0                   0.0                    0.0                   
+Average bounce sect Three               0.0                   0.0                    0.0                   
+bounce sect Four                        0.0                   0.0                    0.0                   
+Average bounce sect Four                0.0                   0.0                    0.0                   
+bounce sect Five                        0.0                   0.0                    0.0                   
+Average bounce sect Five                0.0                   0.0                    0.0                   
+bounce sect Six                         0.0                   0.0                    0.0                   
+Average bounce sect Six                 0.0                   0.0                    0.0                   
+bounce sect Seven                       0.0                   0.0                    0.0                   
+Average bounce sect Seven               0.0                   0.0                    0.0                   
+bounce sect Eight                       0.0                   0.0                    0.0                   
+Average bounce sect Eight               0.0                   0.0                    0.0                   
+chosen sect One                         789.0                 849.0                  1638.0                
+Average chosen sect One                 7.89                  8.49                   16.38                 
+chosen sect Two                         578.0                 501.0                  1079.0                
+Average chosen sect Two                 5.78                  5.01                   10.79                 
+chosen sect Three                       397.0                 417.0                  814.0                 
+Average chosen sect Three               3.97                  4.17                   8.14                  
+chosen sect Four                        384.0                 374.0                  758.0                 
+Average chosen sect Four                3.84                  3.74                   7.58                  
+chosen sect Five                        378.0                 357.0                  735.0                 
+Average chosen sect Five                3.78                  3.57                   7.35                  
+chosen sect Six                         366.0                 358.0                  724.0                 
+Average chosen sect Six                 3.66                  3.58                   7.24                  
+chosen sect Seven                       371.0                 416.0                  787.0                 
+Average chosen sect Seven               3.71                  4.16                   7.87                  
+chosen sect Eight                       506.0                 569.0                  1075.0                
+Average chosen sect Eight               5.06                  5.69                   10.75                 
+chosen sect Nine                        0.0                   0.0                    0.0                   
+Average chosen sect Nine                0.0                   0.0                    0.0                   
+chosen sect Ten                         0.0                   0.0                    0.0                   
+Average chosen sect Ten                 0.0                   0.0                    0.0                   
+chosen sect Eleven                      0.0                   0.0                    0.0                   
+Average chosen sect Eleven              0.0                   0.0                    0.0                   
+chosen sect Twelve                      0.0                   0.0                    0.0                   
+Average chosen sect Twelve              0.0                   0.0                    0.0                   
+chosen sect Thirteen                    0.0                   0.0                    0.0                   
+Average chosen sect Thirteen            0.0                   0.0                    0.0                   
+chosen sect Fourteen                    0.0                   0.0                    0.0                   
+Average chosen sect Fourteen            0.0                   0.0                    0.0                   
+chosen sect Fifteen                     0.0                   0.0                    0.0                   
+Average chosen sect Fifteen             0.0                   0.0                    0.0                   
+chosen sect Sixteen                     0.0                   0.0                    0.0                   
+Average chosen sect Sixteen             0.0                   0.0                    0.0                   
+absolute direction One                  460.0                 474.0                  934.0                 
+Average absolute direction One          4.6                   4.74                   9.34                  
+absolute direction Two                  497.0                 472.0                  969.0                 
+Average absolute direction Two          4.97                  4.72                   9.69                  
+absolute direction Three                507.0                 475.0                  982.0                 
+Average absolute direction Three        5.07                  4.75                   9.82                  
+absolute direction Four                 453.0                 497.0                  950.0                 
+Average absolute direction Four         4.53                  4.97                   9.5                   
+absolute direction Five                 480.0                 457.0                  937.0                 
+Average absolute direction Five         4.8                   4.57                   9.370000000000001     
+absolute direction Six                  459.0                 497.0                  956.0                 
+Average absolute direction Six          4.59                  4.97                   9.559999999999999     
+absolute direction Seven                443.0                 483.0                  926.0                 
+Average absolute direction Seven        4.43                  4.83                   9.26                  
+absolute direction Eight                470.0                 486.0                  956.0                 
+Average absolute direction Eight        4.7                   4.86                   9.56                  
+chosen sect travelled One               5779.419702517865     6501.191536770679      12280.611239288544    
+Average chosen sect travelled One       57.79419702517865     65.01191536770679      122.80611239288544    
+chosen sect travelled Two               4688.593029655496     4387.492827681156      9076.085857336653     
+Average chosen sect travelled Two       46.88593029655496     43.87492827681156      90.76085857336652     
+chosen sect travelled Three             3335.4254218030947    3397.973230929469      6733.398652732563     
+Average chosen sect travelled Three     33.354254218030945    33.97973230929469      67.33398652732564     
+chosen sect travelled Four              3060.1896722483957    3208.267751524036      6268.457423772432     
+Average chosen sect travelled Four      30.601896722483957    32.08267751524036      62.68457423772432     
+chosen sect travelled Five              3067.6197159254793    2851.858953185675      5919.478669111155     
+Average chosen sect travelled Five      30.676197159254794    28.51858953185675      59.194786691111545    
+chosen sect travelled Six               2851.7190851417504    2991.829015780056      5843.5481009218065    
+Average chosen sect travelled Six       28.517190851417503    29.918290157800563     58.435481009218066    
+chosen sect travelled Seven             2802.0102504648794    3400.6294412328994     6202.639691697779     
+Average chosen sect travelled Seven     28.020102504648793    34.00629441232899      62.02639691697779     
+chosen sect travelled Eight             4147.187560703935     4806.360759943044      8953.54832064698      
+Average chosen sect travelled Eight     41.471875607039344    48.06360759943044      89.53548320646979     
+chosen sect travelled Nine              0.0                   0.0                    0.0                   
+Average chosen sect travelled Nine      0.0                   0.0                    0.0                   
+chosen sect travelled Ten               0.0                   0.0                    0.0                   
+Average chosen sect travelled Ten       0.0                   0.0                    0.0                   
+chosen sect travelled Eleven            0.0                   0.0                    0.0                   
+Average chosen sect travelled Eleven    0.0                   0.0                    0.0                   
+chosen sect travelled Twelve            0.0                   0.0                    0.0                   
+Average chosen sect travelled Twelve    0.0                   0.0                    0.0                   
+chosen sect travelled Thirteen          0.0                   0.0                    0.0                   
+Average chosen sect travelled Thirteen  0.0                   0.0                    0.0                   
+chosen sect travelled Fourteen          0.0                   0.0                    0.0                   
+Average chosen sect travelled Fourteen  0.0                   0.0                    0.0                   
+chosen sect travelled Fifteen           0.0                   0.0                    0.0                   
+Average chosen sect travelled Fifteen   0.0                   0.0                    0.0                   
+chosen sect travelled Sixteen           0.0                   0.0                    0.0                   
+Average chosen sect travelled Sixteen   0.0                   0.0                    0.0                   
+lifetime                                10000.0               10000.0                20000.0               
+Average lifetime                        100.0                 100.0                  200.0                 
+Collision Varience                      0.5517241379310345    0.24731182795698925    0.7990359658880237    
+Average Collision Varience              0.005517241379310344  0.0024731182795698927  0.007990359658880238  
+Collision Varience Total                4.413793103448276     1.978494623655914      6.39228772710419      
+Average Collision Varience Total        0.044137931034482755  0.01978494623655914    0.0639228772710419    
+Bounce Varience                         NaN                   NaN                    NaN                   
+Average Bounce Varience                 NaN                   NaN                    NaN                   
+Bounce Varience Total                   NaN                   NaN                    NaN                   
+Average Bounce Varience Total           NaN                   NaN                    NaN                   
+Chosen Varience                         1.0                   1.0                    2.0                   
+Average Chosen Varience                 0.01                  0.01                   0.02                  
+Chosen Varience Total                   16.0                  16.0                   32.0                  
+Average Chosen Varience Total           0.16                  0.16                   0.32                  
+Absolute Varience                       0.03747678429291589   0.022129653736006245   0.05960643802892214   
+Average Absolute Varience               3.747678429291589E-4  2.2129653736006246E-4  5.960643802892213E-4  
+Absolute Varience Total                 0.29981427434332714   0.17703722988804996    0.4768515042313771    
+Average Absolute Varience Total         0.002998142743433271  0.0017703722988804997  0.004768515042313771  
+Chosen distance Varience                1.0                   1.0                    2.0                   
+Average Chosen distance Varience        0.01                  0.01                   0.02                  
+Chosen distance Varience Total          16.0                  16.0                   32.0                  
+Average Chosen distance Varience Total  0.16                  0.16                   0.32                  
+
+
+
+seed: 8285488233758189792
+increments: 150
+jump size: 2.0
+jumps per increment: 2.0
+brakes: 25
+file name: null
+vid file name: null
+heat topper: 0
+jumps changed: false
+tail: false
+panel size: 1500
+push: 0
+jump size increment: 1.0
+jumps per increment: 1.0
+brake increments: 25.0
+changed: false
+type of traj: roulette
+iterations: 250
+change frequency: 75000
+number of cells: 100
+size of cells: 10
+one: 4145
+two: 2441
+three: 1983
+four: 2152
+five: 2230
+six: 1977
+seven: 2416
+eight: 4078
+distribution: random
+replication on: false
+rep chance: 3000
+rep taboo time: 0
+rep varience on: false
+rep varience: 100
+death on: false
+death chance: 2000
+death type: clear
+death varience on: false
+death varience: 100
+death time till removal: 100
+boundary on: false
+bound size: 500
+bound type: circular
+speed on: false
+speed: 3.0
+speed varience: 2
+speed spreadType: random
+bez on: false
+bez bounce on: false
+bez min distance: 5000
+bez max distance: 50000
+bez chance: 90000
+bez number: 20
+bez size: 5
+bez type: random
+bez varience: 1000
+bez retainer: false
+bez S var: 0
+bez dist: false
+ant path: false
+ant ratio: 10000
+ant varience ratio: 10000
+species 0
+replication: false
+rep chance: 3000
+rep taboo: 0
+rep varience: false
+er rep varience 2: 100
+death: false
+death chance: 2000
+death varience: false
+death varience 2: 100
+death type: clear
+time till removal: 100
+speed flag: false
+speed: 3.0
+speedVar: 2
+speed type: random
+change flag: 75000
+change varience: 0
+cell num: 100
+wOne: 4145
+wOne var: 0
+wTwo: 2441
+wTwo varience: 0
+wThree: 1983
+wThree varience: 0
+wFour: 2152
+wFour varicne: 0
+wFive: 2230
+wFive varience: 0
+wSix: 1977
+wSix varience: 0
+wSeven: 2416
+wSeven varience: 0
+wEight: 4078
+wEight varience: 0
+traj type: roulette
+cell length: 10
+cell length var: 4
+ant path flag: false
+ant ratio: 10000
+ant varience: 10000

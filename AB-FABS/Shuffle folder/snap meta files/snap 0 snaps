@@ -1,0 +1,486 @@
+Average Total Deaths;0.0
+Total Total Deaths;0.0
+sD Total Deaths;0.0
+Average Average Total Deaths;0.0
+Total Average Total Deaths;0.0
+sD Average Total Deaths;0.0
+Average Total Births;0.0
+Total Total Births;0.0
+sD Total Births;0.0
+Average Average Total Births;0.0
+Total Average Total Births;0.0
+sD Average Total Births;0.0
+Average Active Cells;100.0
+Total Active Cells;200.0
+sD Active Cells;0.0
+Average Average Active Cells;1.0
+Total Average Active Cells;2.0
+sD Average Active Cells;0.0
+Average Increments;0.0
+Total Increments;0.0
+sD Increments;0.0
+Average Average Increments;0.0
+Total Average Increments;0.0
+sD Average Increments;0.0
+Average Jumps;1.0
+Total Jumps;2.0
+sD Jumps;0.0
+Average Average Jumps;0.01
+Total Average Jumps;0.02
+sD Average Jumps;0.0
+Average Distance from start;200.16007241796422
+Total Distance from start;400.32014483592843
+sD Distance from start;0.6325270841747587
+Average Average Distance from start;2.0016007241796423
+Total Average Distance from start;4.003201448359285
+sD Average Distance from start;0.20002262677372973
+Average Speed;306.3888397775395
+Total Speed;612.777679555079
+sD Speed;1.7352747350284938
+Average Average Speed;3.0638883977753943
+Total Average Speed;6.127776795550789
+sD Average Speed;0.5487420528835211
+Average Total Nearest;0.0
+Total Total Nearest;0.0
+sD Total Nearest;0.0
+Average Average Total Nearest;0.0
+Total Average Total Nearest;0.0
+sD Average Total Nearest;0.0
+Average Closest;0.0
+Total Closest;0.0
+sD Closest;0.0
+Average Average Closest;0.0
+Total Average Closest;0.0
+sD Average Closest;0.0
+Average Furthest;0.0
+Total Furthest;0.0
+sD Furthest;0.0
+Average Average Furthest;0.0
+Total Average Furthest;0.0
+sD Average Furthest;0.0
+Average total distance travelled;612.777679555079
+Total total distance travelled;1225.555359110158
+sD total distance travelled;2.0636010613803464
+Average Average total distance travelled;6.127776795550789
+Total Average total distance travelled;12.255553591101577
+sD Average total distance travelled;0.6525679535902827
+Average total collisions;0.0
+Total total collisions;0.0
+sD total collisions;0.0
+Average Average total collisions;0.0
+Total Average total collisions;0.0
+sD Average total collisions;0.0
+Average total turns;0.0
+Total total turns;0.0
+sD total turns;0.0
+Average Average total turns;0.0
+Total Average total turns;0.0
+sD Average total turns;0.0
+Average total bez chosen;0.0
+Total total bez chosen;0.0
+sD total bez chosen;0.0
+Average Average total bez chosen;0.0
+Total Average total bez chosen;0.0
+sD Average total bez chosen;0.0
+Average collision sector One;0.0
+Total collision sector One;0.0
+sD collision sector One;0.0
+Average Average collision sector One;0.0
+Total Average collision sector One;0.0
+sD Average collision sector One;0.0
+Average collision sector Two;0.0
+Total collision sector Two;0.0
+sD collision sector Two;0.0
+Average Average collision sector Two;0.0
+Total Average collision sector Two;0.0
+sD Average collision sector Two;0.0
+Average collision sector Three;0.0
+Total collision sector Three;0.0
+sD collision sector Three;0.0
+Average Average collision sector Three;0.0
+Total Average collision sector Three;0.0
+sD Average collision sector Three;0.0
+Average collision sector Four;0.0
+Total collision sector Four;0.0
+sD collision sector Four;0.0
+Average Average collision sector Four;0.0
+Total Average collision sector Four;0.0
+sD Average collision sector Four;0.0
+Average collision sector Five;0.0
+Total collision sector Five;0.0
+sD collision sector Five;0.0
+Average Average collision sector Five;0.0
+Total Average collision sector Five;0.0
+sD Average collision sector Five;0.0
+Average collision sector Six;0.0
+Total collision sector Six;0.0
+sD collision sector Six;0.0
+Average Average collision sector Six;0.0
+Total Average collision sector Six;0.0
+sD Average collision sector Six;0.0
+Average collision sector Seven;0.0
+Total collision sector Seven;0.0
+sD collision sector Seven;0.0
+Average Average collision sector Seven;0.0
+Total Average collision sector Seven;0.0
+sD Average collision sector Seven;0.0
+Average collision sector Eight;0.0
+Total collision sector Eight;0.0
+sD collision sector Eight;0.0
+Average Average collision sector Eight;0.0
+Total Average collision sector Eight;0.0
+sD Average collision sector Eight;0.0
+Average bounce sect One;0.0
+Total bounce sect One;0.0
+sD bounce sect One;0.0
+Average Average bounce sect One;0.0
+Total Average bounce sect One;0.0
+sD Average bounce sect One;0.0
+Average bounce sect Two;0.0
+Total bounce sect Two;0.0
+sD bounce sect Two;0.0
+Average Average bounce sect Two;0.0
+Total Average bounce sect Two;0.0
+sD Average bounce sect Two;0.0
+Average bounce sect Three;0.0
+Total bounce sect Three;0.0
+sD bounce sect Three;0.0
+Average Average bounce sect Three;0.0
+Total Average bounce sect Three;0.0
+sD Average bounce sect Three;0.0
+Average bounce sect Four;0.0
+Total bounce sect Four;0.0
+sD bounce sect Four;0.0
+Average Average bounce sect Four;0.0
+Total Average bounce sect Four;0.0
+sD Average bounce sect Four;0.0
+Average bounce sect Five;0.0
+Total bounce sect Five;0.0
+sD bounce sect Five;0.0
+Average Average bounce sect Five;0.0
+Total Average bounce sect Five;0.0
+sD Average bounce sect Five;0.0
+Average bounce sect Six;0.0
+Total bounce sect Six;0.0
+sD bounce sect Six;0.0
+Average Average bounce sect Six;0.0
+Total Average bounce sect Six;0.0
+sD Average bounce sect Six;0.0
+Average bounce sect Seven;0.0
+Total bounce sect Seven;0.0
+sD bounce sect Seven;0.0
+Average Average bounce sect Seven;0.0
+Total Average bounce sect Seven;0.0
+sD Average bounce sect Seven;0.0
+Average bounce sect Eight;0.0
+Total bounce sect Eight;0.0
+sD bounce sect Eight;0.0
+Average Average bounce sect Eight;0.0
+Total Average bounce sect Eight;0.0
+sD Average bounce sect Eight;0.0
+Average chosen sect One;0.0
+Total chosen sect One;0.0
+sD chosen sect One;0.0
+Average Average chosen sect One;0.0
+Total Average chosen sect One;0.0
+sD Average chosen sect One;0.0
+Average chosen sect Two;0.0
+Total chosen sect Two;0.0
+sD chosen sect Two;0.0
+Average Average chosen sect Two;0.0
+Total Average chosen sect Two;0.0
+sD Average chosen sect Two;0.0
+Average chosen sect Three;0.0
+Total chosen sect Three;0.0
+sD chosen sect Three;0.0
+Average Average chosen sect Three;0.0
+Total Average chosen sect Three;0.0
+sD Average chosen sect Three;0.0
+Average chosen sect Four;0.0
+Total chosen sect Four;0.0
+sD chosen sect Four;0.0
+Average Average chosen sect Four;0.0
+Total Average chosen sect Four;0.0
+sD Average chosen sect Four;0.0
+Average chosen sect Five;0.0
+Total chosen sect Five;0.0
+sD chosen sect Five;0.0
+Average Average chosen sect Five;0.0
+Total Average chosen sect Five;0.0
+sD Average chosen sect Five;0.0
+Average chosen sect Six;0.0
+Total chosen sect Six;0.0
+sD chosen sect Six;0.0
+Average Average chosen sect Six;0.0
+Total Average chosen sect Six;0.0
+sD Average chosen sect Six;0.0
+Average chosen sect Seven;0.0
+Total chosen sect Seven;0.0
+sD chosen sect Seven;0.0
+Average Average chosen sect Seven;0.0
+Total Average chosen sect Seven;0.0
+sD Average chosen sect Seven;0.0
+Average chosen sect Eight;0.0
+Total chosen sect Eight;0.0
+sD chosen sect Eight;0.0
+Average Average chosen sect Eight;0.0
+Total Average chosen sect Eight;0.0
+sD Average chosen sect Eight;0.0
+Average chosen sect Nine;0.0
+Total chosen sect Nine;0.0
+sD chosen sect Nine;0.0
+Average Average chosen sect Nine;0.0
+Total Average chosen sect Nine;0.0
+sD Average chosen sect Nine;0.0
+Average chosen sect Ten;0.0
+Total chosen sect Ten;0.0
+sD chosen sect Ten;0.0
+Average Average chosen sect Ten;0.0
+Total Average chosen sect Ten;0.0
+sD Average chosen sect Ten;0.0
+Average chosen sect Eleven;0.0
+Total chosen sect Eleven;0.0
+sD chosen sect Eleven;0.0
+Average Average chosen sect Eleven;0.0
+Total Average chosen sect Eleven;0.0
+sD Average chosen sect Eleven;0.0
+Average chosen sect Twelve;0.0
+Total chosen sect Twelve;0.0
+sD chosen sect Twelve;0.0
+Average Average chosen sect Twelve;0.0
+Total Average chosen sect Twelve;0.0
+sD Average chosen sect Twelve;0.0
+Average chosen sect Thirteen;0.0
+Total chosen sect Thirteen;0.0
+sD chosen sect Thirteen;0.0
+Average Average chosen sect Thirteen;0.0
+Total Average chosen sect Thirteen;0.0
+sD Average chosen sect Thirteen;0.0
+Average chosen sect Fourteen;0.0
+Total chosen sect Fourteen;0.0
+sD chosen sect Fourteen;0.0
+Average Average chosen sect Fourteen;0.0
+Total Average chosen sect Fourteen;0.0
+sD Average chosen sect Fourteen;0.0
+Average chosen sect Fifteen;0.0
+Total chosen sect Fifteen;0.0
+sD chosen sect Fifteen;0.0
+Average Average chosen sect Fifteen;0.0
+Total Average chosen sect Fifteen;0.0
+sD Average chosen sect Fifteen;0.0
+Average chosen sect Sixteen;0.0
+Total chosen sect Sixteen;0.0
+sD chosen sect Sixteen;0.0
+Average Average chosen sect Sixteen;0.0
+Total Average chosen sect Sixteen;0.0
+sD Average chosen sect Sixteen;0.0
+Average absolute direction One;0.0
+Total absolute direction One;0.0
+sD absolute direction One;0.0
+Average Average absolute direction One;0.0
+Total Average absolute direction One;0.0
+sD Average absolute direction One;0.0
+Average absolute direction Two;0.0
+Total absolute direction Two;0.0
+sD absolute direction Two;0.0
+Average Average absolute direction Two;0.0
+Total Average absolute direction Two;0.0
+sD Average absolute direction Two;0.0
+Average absolute direction Three;0.0
+Total absolute direction Three;0.0
+sD absolute direction Three;0.0
+Average Average absolute direction Three;0.0
+Total Average absolute direction Three;0.0
+sD Average absolute direction Three;0.0
+Average absolute direction Four;0.0
+Total absolute direction Four;0.0
+sD absolute direction Four;0.0
+Average Average absolute direction Four;0.0
+Total Average absolute direction Four;0.0
+sD Average absolute direction Four;0.0
+Average absolute direction Five;0.0
+Total absolute direction Five;0.0
+sD absolute direction Five;0.0
+Average Average absolute direction Five;0.0
+Total Average absolute direction Five;0.0
+sD Average absolute direction Five;0.0
+Average absolute direction Six;0.0
+Total absolute direction Six;0.0
+sD absolute direction Six;0.0
+Average Average absolute direction Six;0.0
+Total Average absolute direction Six;0.0
+sD Average absolute direction Six;0.0
+Average absolute direction Seven;0.0
+Total absolute direction Seven;0.0
+sD absolute direction Seven;0.0
+Average Average absolute direction Seven;0.0
+Total Average absolute direction Seven;0.0
+sD Average absolute direction Seven;0.0
+Average absolute direction Eight;0.0
+Total absolute direction Eight;0.0
+sD absolute direction Eight;0.0
+Average Average absolute direction Eight;0.0
+Total Average absolute direction Eight;0.0
+sD Average absolute direction Eight;0.0
+Average chosen sect travelled One;0.0
+Total chosen sect travelled One;0.0
+sD chosen sect travelled One;0.0
+Average Average chosen sect travelled One;0.0
+Total Average chosen sect travelled One;0.0
+sD Average chosen sect travelled One;0.0
+Average chosen sect travelled Two;0.0
+Total chosen sect travelled Two;0.0
+sD chosen sect travelled Two;0.0
+Average Average chosen sect travelled Two;0.0
+Total Average chosen sect travelled Two;0.0
+sD Average chosen sect travelled Two;0.0
+Average chosen sect travelled Three;0.0
+Total chosen sect travelled Three;0.0
+sD chosen sect travelled Three;0.0
+Average Average chosen sect travelled Three;0.0
+Total Average chosen sect travelled Three;0.0
+sD Average chosen sect travelled Three;0.0
+Average chosen sect travelled Four;0.0
+Total chosen sect travelled Four;0.0
+sD chosen sect travelled Four;0.0
+Average Average chosen sect travelled Four;0.0
+Total Average chosen sect travelled Four;0.0
+sD Average chosen sect travelled Four;0.0
+Average chosen sect travelled Five;0.0
+Total chosen sect travelled Five;0.0
+sD chosen sect travelled Five;0.0
+Average Average chosen sect travelled Five;0.0
+Total Average chosen sect travelled Five;0.0
+sD Average chosen sect travelled Five;0.0
+Average chosen sect travelled Six;0.0
+Total chosen sect travelled Six;0.0
+sD chosen sect travelled Six;0.0
+Average Average chosen sect travelled Six;0.0
+Total Average chosen sect travelled Six;0.0
+sD Average chosen sect travelled Six;0.0
+Average chosen sect travelled Seven;0.0
+Total chosen sect travelled Seven;0.0
+sD chosen sect travelled Seven;0.0
+Average Average chosen sect travelled Seven;0.0
+Total Average chosen sect travelled Seven;0.0
+sD Average chosen sect travelled Seven;0.0
+Average chosen sect travelled Eight;0.0
+Total chosen sect travelled Eight;0.0
+sD chosen sect travelled Eight;0.0
+Average Average chosen sect travelled Eight;0.0
+Total Average chosen sect travelled Eight;0.0
+sD Average chosen sect travelled Eight;0.0
+Average chosen sect travelled Nine;0.0
+Total chosen sect travelled Nine;0.0
+sD chosen sect travelled Nine;0.0
+Average Average chosen sect travelled Nine;0.0
+Total Average chosen sect travelled Nine;0.0
+sD Average chosen sect travelled Nine;0.0
+Average chosen sect travelled Ten;0.0
+Total chosen sect travelled Ten;0.0
+sD chosen sect travelled Ten;0.0
+Average Average chosen sect travelled Ten;0.0
+Total Average chosen sect travelled Ten;0.0
+sD Average chosen sect travelled Ten;0.0
+Average chosen sect travelled Eleven;0.0
+Total chosen sect travelled Eleven;0.0
+sD chosen sect travelled Eleven;0.0
+Average Average chosen sect travelled Eleven;0.0
+Total Average chosen sect travelled Eleven;0.0
+sD Average chosen sect travelled Eleven;0.0
+Average chosen sect travelled Twelve;0.0
+Total chosen sect travelled Twelve;0.0
+sD chosen sect travelled Twelve;0.0
+Average Average chosen sect travelled Twelve;0.0
+Total Average chosen sect travelled Twelve;0.0
+sD Average chosen sect travelled Twelve;0.0
+Average chosen sect travelled Thirteen;0.0
+Total chosen sect travelled Thirteen;0.0
+sD chosen sect travelled Thirteen;0.0
+Average Average chosen sect travelled Thirteen;0.0
+Total Average chosen sect travelled Thirteen;0.0
+sD Average chosen sect travelled Thirteen;0.0
+Average chosen sect travelled Fourteen;0.0
+Total chosen sect travelled Fourteen;0.0
+sD chosen sect travelled Fourteen;0.0
+Average Average chosen sect travelled Fourteen;0.0
+Total Average chosen sect travelled Fourteen;0.0
+sD Average chosen sect travelled Fourteen;0.0
+Average chosen sect travelled Fifteen;0.0
+Total chosen sect travelled Fifteen;0.0
+sD chosen sect travelled Fifteen;0.0
+Average Average chosen sect travelled Fifteen;0.0
+Total Average chosen sect travelled Fifteen;0.0
+sD Average chosen sect travelled Fifteen;0.0
+Average chosen sect travelled Sixteen;0.0
+Total chosen sect travelled Sixteen;0.0
+sD chosen sect travelled Sixteen;0.0
+Average Average chosen sect travelled Sixteen;0.0
+Total Average chosen sect travelled Sixteen;0.0
+sD Average chosen sect travelled Sixteen;0.0
+Average lifetime;200.0
+Total lifetime;400.0
+sD lifetime;0.0
+Average Average lifetime;2.0
+Total Average lifetime;4.0
+sD Average lifetime;0.0
+Average Collision Varience;NaN
+Total Collision Varience;NaN
+sD Collision Varience;NaN
+Average Average Collision Varience;NaN
+Total Average Collision Varience;NaN
+sD Average Collision Varience;NaN
+Average Collision Varience Total;NaN
+Total Collision Varience Total;NaN
+sD Collision Varience Total;NaN
+Average Average Collision Varience Total;NaN
+Total Average Collision Varience Total;NaN
+sD Average Collision Varience Total;NaN
+Average Bounce Varience;NaN
+Total Bounce Varience;NaN
+sD Bounce Varience;NaN
+Average Average Bounce Varience;NaN
+Total Average Bounce Varience;NaN
+sD Average Bounce Varience;NaN
+Average Bounce Varience Total;NaN
+Total Bounce Varience Total;NaN
+sD Bounce Varience Total;NaN
+Average Average Bounce Varience Total;NaN
+Total Average Bounce Varience Total;NaN
+sD Average Bounce Varience Total;NaN
+Average Chosen Varience;NaN
+Total Chosen Varience;NaN
+sD Chosen Varience;NaN
+Average Average Chosen Varience;NaN
+Total Average Chosen Varience;NaN
+sD Average Chosen Varience;NaN
+Average Chosen Varience Total;NaN
+Total Chosen Varience Total;NaN
+sD Chosen Varience Total;NaN
+Average Average Chosen Varience Total;NaN
+Total Average Chosen Varience Total;NaN
+sD Average Chosen Varience Total;NaN
+Average Absolute Varience;NaN
+Total Absolute Varience;NaN
+sD Absolute Varience;NaN
+Average Average Absolute Varience;NaN
+Total Average Absolute Varience;NaN
+sD Average Absolute Varience;NaN
+Average Absolute Varience Total;NaN
+Total Absolute Varience Total;NaN
+sD Absolute Varience Total;NaN
+Average Average Absolute Varience Total;NaN
+Total Average Absolute Varience Total;NaN
+sD Average Absolute Varience Total;NaN
+Average Chosen distance Varience;NaN
+Total Chosen distance Varience;NaN
+sD Chosen distance Varience;NaN
+Average Average Chosen distance Varience;NaN
+Total Average Chosen distance Varience;NaN
+sD Average Chosen distance Varience;NaN
+Average Chosen distance Varience Total;NaN
+Total Chosen distance Varience Total;NaN
+sD Chosen distance Varience Total;NaN
+Average Average Chosen distance Varience Total;NaN
+Total Average Chosen distance Varience Total;NaN
+sD Average Chosen distance Varience Total;NaN
